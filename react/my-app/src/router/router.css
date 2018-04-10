@@ -1,0 +1,11 @@
+/* .Content{
+  height: 1000px;
+} */
+.layout{
+  height: 100%;
+}
+.vertical{
+  display: flex;
+  background: #fff;
+  justify-content: center;
+}

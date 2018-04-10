@@ -1,0 +1,12 @@
+
+.new-content{
+    display: flex;
+    min-height: 150px;
+    border-radius: 5px;
+    justify-content: flex-start;
+    border: 1px solid #e8e8e8;
+}
+.buttonTwo{
+   display: flex;
+     justify-content: flex-end;
+}

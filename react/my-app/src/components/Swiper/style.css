@@ -1,0 +1,42 @@
+.main{
+    position: relative;
+    width: 600px;
+    height: 450px;
+    margin: auto;
+    top:0px;
+
+}
+.img-slide{
+    position: absolute;
+}
+
+.button-next:hover{
+  opacity: 1.0;
+}
+.button-next{
+    left: 91.5%;
+    opacity: 0.6;
+    font-size: 50px;
+    height: 60px;
+    width:50px;
+}
+.button-prev:hover{
+  opacity: 1.0;
+}
+.button-prev{
+    left: 0;
+    opacity: 0.6;
+    font-size: 50px;
+    height: 60px;
+    width:50px;
+}
+.vertical-center{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.font{
+    width: 600px;
+    height: 400px;
+}
