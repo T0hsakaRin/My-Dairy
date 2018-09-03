@@ -11,23 +11,4 @@
 ###### 日记模块，具有添加、删除、修改等功能，支持markdown语法并可以在线预览。
 
 
-###### 拉代码
-> git clone 
 
-###### 切换自己的新分支 
-> t checkout -b feature/xxx
-###### 开发
-###### 提交到暂存区
-> git add .
-
-###### 提交到本地仓库
-> git commit -m "xxxx" （xxx是你的提交描述）
-
-###### 更新代码 
-> git fetch -p 
-> git rebase origin/master
-
-###### 推送到远程分支 
-> git push
-
-###### pull request
